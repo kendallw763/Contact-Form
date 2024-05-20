@@ -1,0 +1,33 @@
+
+body{
+    background-color: ghostwhite;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+
+#form{
+    color: black;
+    padding-top: 10%;
+    padding-bottom: 50px;
+    align-content: center;
+    width:auto;
+    text-align: center;
+}
+
+button{
+    background-color: ghostwhite;
+    border: 1px solid black;
+}
+button:hover{
+    cursor: pointer;
+    background-color: dodgerblue;
+}
+
+
+
+
+
+
+
